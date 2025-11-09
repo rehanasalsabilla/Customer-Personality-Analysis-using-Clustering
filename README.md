@@ -33,6 +33,20 @@ Dataset ini berisi informasi karakteristik pelanggan seperti:
 
 > Dataset ini digunakan untuk menemukan pola dan kesamaan di antara pelanggan agar bisa dibagi menjadi beberapa **segmen homogen**.
 
+---
+
+## 🧰 Tools dan Teknologi
+
+| Kategori | Teknologi |
+|-----------|------------|
+| **Bahasa Pemrograman** | Python |
+| **Analisis Data** | Pandas, NumPy |
+| **Visualisasi** | Matplotlib, Seaborn |
+| **Machine Learning** | Scikit-learn (KMeans, PCA) |
+| **Lingkungan Pengembangan** | Jupyter Notebook |
+
+---
+
 ## ⚙️ Tahapan Analisis
 
 ### 1️⃣ Import Library
@@ -94,15 +108,6 @@ Dari hasil penerapan **K-Means Clustering**, diperoleh **4 segmen utama pelangga
 
 ---
 
-## 🏁 Kesimpulan
-
-Proyek **Customer Personality Analysis using Clustering** berhasil:
-- Mengidentifikasi empat kelompok pelanggan dengan karakteristik berbeda.  
-- Memberikan insight berharga untuk strategi pemasaran yang lebih efektif dan personal.  
-- Membuktikan bahwa pendekatan **data-driven segmentation** dapat membantu bisnis memahami pelanggan dengan lebih mendalam.
-
-Dengan hasil ini, perusahaan dapat meningkatkan efisiensi kampanye pemasaran, mengoptimalkan pengalaman pelanggan, serta memperkuat loyalitas jangka panjang.
-
 ## 💡 Insight & Manfaat
 
 Dari hasil analisis, perusahaan dapat memperoleh berbagai manfaat strategis, antara lain:
@@ -114,26 +119,15 @@ Dari hasil analisis, perusahaan dapat memperoleh berbagai manfaat strategis, ant
 
 ---
 
-## 🧰 Tools dan Teknologi
-
-| Kategori | Teknologi |
-|-----------|------------|
-| **Bahasa Pemrograman** | Python |
-| **Analisis Data** | Pandas, NumPy |
-| **Visualisasi** | Matplotlib, Seaborn |
-| **Machine Learning** | Scikit-learn (KMeans, PCA) |
-| **Lingkungan Pengembangan** | Jupyter Notebook |
-
----
-
 ## 🧭 Kesimpulan Akhir
-
 Berdasarkan analisis dan hasil clustering yang dilakukan:
 
 - ✅ **K-Means Clustering** berhasil membagi pelanggan menjadi **4 kelompok berbeda** berdasarkan kesamaan karakteristik dan perilaku.  
 - 🧠 Setiap cluster memiliki **nilai strategis** yang dapat dimanfaatkan untuk menyusun strategi pemasaran yang lebih efektif dan efisien.  
 - 💼 Dengan memahami segmen pelanggan, perusahaan dapat **mengoptimalkan sumber daya pemasaran, meningkatkan loyalitas pelanggan**, serta memperkuat posisi bisnis di pasar.  
-- 🤖 Secara keseluruhan, proyek ini menunjukkan bahwa **unsupervised learning (K-Means)** merupakan pendekatan yang efektif dalam **customer segmentation berbasis data**.  
+- 🤖 Secara keseluruhan, proyek ini menunjukkan bahwa **unsupervised learning (K-Means)** merupakan pendekatan yang efektif dalam **customer segmentation berbasis data**.
+
+Dengan hasil ini, perusahaan dapat meningkatkan efisiensi kampanye pemasaran, mengoptimalkan pengalaman pelanggan, serta memperkuat loyalitas jangka panjang.
 
 ---
 
